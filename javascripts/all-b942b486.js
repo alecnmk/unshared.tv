@@ -1,1 +1,0 @@
-document.addEventListener("DOMContentLoaded",function(){video=document.getElementById("bgvid"),video.load(),setTimeout(function(){video.play()},5e3)});
